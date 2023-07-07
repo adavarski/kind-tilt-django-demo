@@ -28,7 +28,7 @@ cp .env.example .env
 
 tilt up
 ```
-<img src="pictures/TILT-UI-django.png?raw=true" width="1000">
+<img src="docs/TILT-UI-django.png?raw=true" width="1000">
 
 ### Check 
 ````
