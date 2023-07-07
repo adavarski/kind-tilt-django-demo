@@ -1,4 +1,4 @@
-## Django (polls app) development in Kubernetes using Tilt with PostgreSQL, Adminer and MinIO installed using Helm.
+## Django (polls app) development in Kubernetes (KinD) using Tilt with PostgreSQL, Adminer and MinIO installed using Helm.
 
 Sample Django project demonstrating how to use Tilt with Helm to develop a Django application in Kubernetes. This project uses the [polls app](https://docs.djangoproject.com/en/4.1/intro/tutorial01/) from the Django documentation and is configured to use PostgreSQL and MinIO as the database and file storage backend respectively.
 
